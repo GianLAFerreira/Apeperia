@@ -19,10 +19,10 @@
   max-width: 300px;
   line-height: 1.6;
   text-align: center;
-  margin: 0 auto;
+  margin-left: 150px;
   
   position: relative;
- left: 50%;
+ 
   transform: translateX(-50%)
 }
 
